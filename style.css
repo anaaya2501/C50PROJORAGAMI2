@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(6, 50, 68);
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color:rgb(8, 243, 8);
+    display:flex;
+    justify-content:space-between;
+}
+.h2{
+    background-color:rgb(191, 14, 255)
+}
+.menu{
+    color:rgb(204, 110, 126)
+}
+.grid{
+    background-color:rgb(255, 93, 93);
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    background-color:yellow;
+    display:flex;
+    justify-content:flex-end;
+}
